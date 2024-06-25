@@ -2,7 +2,7 @@
 
 # String Session (Telethon)
 
-<p align="center"><a href="https://replit.com/@Itz-zaid/Generator"> <img src="https://img.shields.io/badge/String%20Session-black?style=for-the-badge&logo=web" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://replit.com/@almorisy55/Generator"> <img src="https://img.shields.io/badge/String%20Session-black?style=for-the-badge&logo=web" width="220" height="38.45"/></a></p>
 
 # Free Tutorials/Hosting Methods 
 
@@ -21,7 +21,7 @@ pip3 install -U pip
 curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.38.0/install.sh | bash 
 source ~/.bashrc
 nvm install v18 #nodejs 18+
-git clone https://github.com/ITZ-ZAID/Telethon-Music # clone the repo.
+git clone https://github.com/Alamier2024/Telethon-Music# clone the repo.
 cd Telethon-Music
 pip3 install -U -r requirements.txt
 nano config.py #edit your vars separate by space
